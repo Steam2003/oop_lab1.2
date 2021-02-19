@@ -1,0 +1,5 @@
+﻿  Рядок_символів.cpp
+D:\Patiuk\ООП\Лаби\lab1.2\Рядок_символів.cpp(6,28): warning C4018: '<=': signed/unsigned mismatch
+D:\Patiuk\ООП\Лаби\lab1.2\Рядок_символів.cpp(30,20): warning C4018: '<': signed/unsigned mismatch
+D:\Patiuk\ООП\Лаби\lab1.2\Рядок_символів.cpp(40,20): warning C4018: '<': signed/unsigned mismatch
+  lab1.2.vcxproj -> D:\Patiuk\ООП\Лаби\lab1.2\Debug\lab1.2.exe
